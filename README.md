@@ -1,34 +1,11 @@
 <p align="center"><img width="140"src="https://raw.githubusercontent.com/SortableJS/Vue.Draggable/master/logo.svg?sanitize=true"></p>
 <h1 align="center">Vue.Draggable</h1>
-
-[![CircleCI](https://circleci.com/gh/SortableJS/Vue.Draggable.svg?style=shield)](https://circleci.com/gh/SortableJS/Vue.Draggable)
-[![Coverage](https://codecov.io/gh/SortableJS/Vue.Draggable/branch/master/graph/badge.svg)](https://codecov.io/gh/SortableJS/Vue.Draggable)
-[![codebeat badge](https://codebeat.co/badges/7a6c27c8-2d0b-47b9-af55-c2eea966e713)](https://codebeat.co/projects/github-com-sortablejs-vue-draggable-master)
-[![GitHub open issues](https://img.shields.io/github/issues/SortableJS/Vue.Draggable.svg)](https://github.com/SortableJS/Vue.Draggable/issues?q=is%3Aopen+is%3Aissue)
-[![npm download](https://img.shields.io/npm/dt/vuedraggable.svg)](https://www.npmjs.com/package/vuedraggable)
-[![npm download per month](https://img.shields.io/npm/dm/vuedraggable.svg)](https://www.npmjs.com/package/vuedraggable)
-[![npm version](https://img.shields.io/npm/v/vuedraggable.svg)](https://www.npmjs.com/package/vuedraggable)
-[![MIT License](https://img.shields.io/github/license/SortableJS/Vue.Draggable.svg)](https://github.com/SortableJS/Vue.Draggable/blob/master/LICENSE)
-
-
+ 
 Vue component (Vue.js 2.0) or directive (Vue.js 1.0) allowing drag-and-drop and synchronization with view model array.
 
 Based on and offering all features of [Sortable.js](https://github.com/RubaXa/Sortable)
 
-
-## For Vue 3
-   See [vue.draggable.next](https://github.com/SortableJS/vue.draggable.next)
-
-## Demo
-
-![demo gif](https://raw.githubusercontent.com/SortableJS/Vue.Draggable/master/example.gif)
-
-## Live Demos
-
-https://sortablejs.github.io/Vue.Draggable/
-
-https://david-desmaisons.github.io/draggable-example/
-
+ 
 ## Features
 
 * Full support of [Sortable.js](https://github.com/RubaXa/Sortable) features:
